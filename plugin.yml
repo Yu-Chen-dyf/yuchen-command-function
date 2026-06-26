@@ -1,0 +1,8 @@
+name: yuchenCommandFunction
+version: 1.0.0
+main: com.yuchen.ycf.YuchenCommandFunction
+api-version: '1.21'
+commands:
+  ycf:
+    description: yuchen的命令函数
+    usage: /ycf <add|use|del|list>
